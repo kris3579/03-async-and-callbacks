@@ -3,13 +3,17 @@
 const reader = require('../lib/reader');
 
 
-describe('Add two numbers together', () => {
-  test('Success with two numbers', () => {
-    const output = reader.add(15, 20);
-    expect(output).toEqual(35);
+describe('Reading from text files', () => {
+  test('Success', (done) => {
+    reader.readAsync(`${__dirname}/../data/fileOne.txt`, 5, (data) => {
+      expect(data).toEqual('Stuff');
+      done();
+    });
   });
-  test('Input other than a number', () => {
-    const output = reader.add(5, 'string');
-    expect(output).toBeNull();
+  test('Error on wrong filepath', (done) => {
+    reader.readAsync('/data/fileOne.txt', 5, (error) => {
+      expect(error.code).toEqual('ENOENT');
+      done();
+    });
   });
 });
