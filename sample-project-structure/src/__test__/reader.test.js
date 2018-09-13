@@ -13,14 +13,3 @@ describe('Add two numbers together', () => {
     expect(output).toBeNull();
   });
 });
-
-describe('Find the difference between two numbers', () => {
-  test('Success with two numbers', () => {
-    const output = reader.sub(20, 15);
-    expect(output).toEqual(5);
-  });
-  test('Input other than a number', () => {
-    const output = reader.sub(5, 'string');
-    expect(output).toBeNull();
-  });
-});
