@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cf37902-252d-454b-9ea3-bee5927cab53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sample-project-structure/src/data/fileOne.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-project-structure/src/data/fileThree.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-project-structure/src/data/fileTwo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-project-structure/src/lib/reader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample-project-structure/src/__test__/arithmetic.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/sample-project-structure/src/__test__/reader.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample-project-structure/src/arithmetic.js" beforeDir="false" />
-    </list>
+    <list default="true" id="0cf37902-252d-454b-9ea3-bee5927cab53" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -63,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sample-project-structure/src/lib/reader.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="527">
+              <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -237,15 +230,15 @@
       <option name="presentableId" value="Default" />
       <updated>1536784226587</updated>
       <workItem from="1536784228252" duration="2515000" />
-      <workItem from="1536794018942" duration="7016000" />
+      <workItem from="1536794018942" duration="7273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9531000" />
+    <option name="totallyTimeSpent" value="9788000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10063224" />
@@ -340,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sample-project-structure/src/lib/reader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="527">
+          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
         </state>
       </provider>
     </entry>

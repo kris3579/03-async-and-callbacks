@@ -1,6 +1,6 @@
-# Node-Ecosystem
+# Async and Callbacks
 
-A project for solidifying our knowledge of how to use node to test our code.
+A project for solidifying our knowledge of how to manage asyncronus callbacks.
 
 ## Getting Started
 
