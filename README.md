@@ -20,3 +20,7 @@ Kris Esvelt
 ### License
 
 MIT
+
+### Travis
+
+[![Build Status](https://travis-ci.com/kris3579/03-async-and-callbacks.svg?branch=master)](https://travis-ci.com/kris3579/03-async-and-callbacks)
